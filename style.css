@@ -1,0 +1,53 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+
+#Firas {
+
+padding: 0 auto ;
+
+text-align: center;
+}
+
+#part1 {
+	padding: 80px;
+background-image: url('images/R.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:100% 100%;
+}
+
+h1{
+
+color: yellow;
+
+}
+
+#part2 {
+
+background-color: white;
+padding-bottom: 50px;
+height: 0 auto;
+font-size: 20px;
+}
+
+.parg{
+
+color:skyblue ;
+
+
+}
+
+#part3{
+color: yellow;
+background-color: skyblue;
+font-size: 30px;}
+
+
+.colored{
+
+color: red;
+
+}
